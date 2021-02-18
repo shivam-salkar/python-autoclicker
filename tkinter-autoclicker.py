@@ -1,7 +1,7 @@
 '''
 python version: 3.9.1
 tkinter version: 8.6
-code is on github: github.com/sCube2428/python-projects/tkinter-autoclicker.py
+code is on github: github.com/sCube2428/python-projects
 '''
 
 from tkinter import *
