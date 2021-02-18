@@ -1,3 +1,9 @@
+'''
+python version: 3.9.1
+tkinter version: 8.6
+code is on github: github.com/sCube2428/python-projects/tkinter-autoclicker.py
+'''
+
 from tkinter import *
 import pyautogui
 from time import sleep
